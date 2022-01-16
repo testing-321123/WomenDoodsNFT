@@ -73,7 +73,7 @@ export default function MyApp() {
               <ul className="">
                 <li>
                   <p className="text-base leading-normal text-gray-600 mt-4">
-                   There are a total of 7,000 Women Doods.
+                   There are a total of 2,500 Women Doods.
                   </p>
                 </li>
               </ul>
