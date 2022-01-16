@@ -104,7 +104,7 @@ const Header = () => {
           <nav aria-label="Contact Menu">
             <ul className="flex items-center space-x-6">
               <li>
-                <a href="https://opensea.io/collection/women-doods" target="_blank" rel="noreferrer">
+                <a href="https://opensea.io/" target="_blank" rel="noreferrer">
                   <svg
                     className="w-7 h-7"
                     viewBox="0 0 90 90"
