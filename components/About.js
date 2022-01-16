@@ -33,7 +33,7 @@ const About = () => {
                       </svg>
                     </span>
                     <p className="ml-2">
-                      <code className="font-semibold text-gray-900">7,000</code>{" "}
+                      <code className="font-semibold text-gray-900">3,333</code>{" "}
                       ERC-721 NFTs.
                     </p>
                   </li>
