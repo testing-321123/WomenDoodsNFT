@@ -93,7 +93,7 @@ const About = () => {
               </div>
               <div className="pt-6 text-base leading-6 font-extralight sm:text-lg sm:leading-7">
                 <p>
-                  Women Doods is a collection of 7,000 powerful women residing on the blockchain.
+                  Women Doods is a collection of 3,333 powerful women residing on the blockchain.
                 </p>
                 <p className="mt-8">
                   <Link href="#main">
